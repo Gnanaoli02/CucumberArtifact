@@ -1,0 +1,6 @@
+com\adactin\pom\SearchHotelPage.class
+com\adactin\baseclass\BaseClass.class
+com\adactin\pom\BookingPage.class
+com\adactin\pom\ConfirmationPage.class
+Cucumber\CucumberArtifact\App.class
+com\adactin\pom\LoginPage.class
